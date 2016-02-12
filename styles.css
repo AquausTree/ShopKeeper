@@ -1,0 +1,8 @@
+body {
+	background-color: lightgrey;
+}
+
+h1, p {
+	font-family: "Verdana";
+	color: black;
+}
